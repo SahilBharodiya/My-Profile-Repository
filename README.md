@@ -1,6 +1,6 @@
 # My-Profile-Repository
 
-<a href="#"><img width="100%" height="auto" src="./img/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./images/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="./img/1.gif" width="30px" height="40px">, I'm Sahil Bharodiya</h1>
 <h3 align="center">I'm a passionate about Data Science, Data Analytics & Machine Learning.</h3>
