@@ -21,6 +21,7 @@
     <a href="https://devdocs.io/c/" target="_blank"> <img src="./images/C.png"  width="48" height="48"/> </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> <img src="./images/C++.png"  width="48" height="48"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="./images/py.png" width="48" height="48"/> </a> 
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png"  width="48" height="46"/> </a>
     <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./images/pytorch.png"  width="48" height="46"/> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="./images/opencv.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./images/mysql.png" width="48" height="48"/> </a>
@@ -60,13 +61,12 @@
 ---
 
 <!-- ### 😂Random Dev Meme -->
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <!-- --- -->
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sahil-bharodiya/"><img src="./img/linkedin.png" width="50" height="50"/></a>
+<a href = "https://www.linkedin.com/in/sahil-bharodiya/"><img src="./images/linkedin.png" width="50" height="50"/></a>
 
 </p>
 
