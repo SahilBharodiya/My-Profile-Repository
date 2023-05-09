@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="./images/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="./img/1.gif" width="30px" height="40px">, I'm Sahil Bharodiya</h1>
+<h1 align="center">Hi <img src="./images/1.gif" width="30px" height="40px">, I'm Sahil Bharodiya</h1>
 <h3 align="center">I'm a passionate about Data Science, Data Analytics & Machine Learning.</h3>
 
 ## 🙋‍♂️ About Me
@@ -18,20 +18,14 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://devdocs.io/c/" target="_blank"> <img src="./img/C.png"  width="48" height="48"/> </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> <img src="./img/C++.png"  width="48" height="48"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="./img/py.png" width="48" height="48"/> </a> 
-    <a href="https://www.r-project.org/other-docs.html" target="_blank"> <img src="./img/R.png"  width="48" height="46"/> </a>
-    <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./img/pytorch.png"  width="48" height="46"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="./img/opencv.png" width="48" height="48"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./img/js.png"width="48" height="48"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="./img/html.png" width="48" height="48"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./img/css.png" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/php/default.asp" target="_blank"> <img src="./img/php.png" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./img/mysql.png" width="48" height="48"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="./img/react.png" width="48" height="48"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" width="48" height="48"/> </a> 
-    <a href="https://github.com/Chaganti-Reddy/" target="_blank"> <img src="./img/github.gif" alt="express" width="48" height="48"/> </a>
+    <a href="https://devdocs.io/c/" target="_blank"> <img src="./images/C.png"  width="48" height="48"/> </a>
+    <a href="https://devdocs.io/cpp/" target="_blank"> <img src="./images/C++.png"  width="48" height="48"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="./images/py.png" width="48" height="48"/> </a> 
+    <a href="https://pytorch.org/docs/stable/index.html" target="_blank"> <img src="./images/pytorch.png"  width="48" height="46"/> </a>
+    <a href="https://opencv.org/" target="_blank"> <img src="./images/opencv.png" width="48" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="./images/mysql.png" width="48" height="48"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="./images/git.png" width="48" height="48"/> </a> 
+    <a href="https://github.com/SahilBharodiya/" target="_blank"> <img src="./images/github.gif" alt="express" width="48" height="48"/> </a>
 </p>
 
 
@@ -78,7 +72,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/SahilBharodiya">
-    <img src="https://komarev.com/ghpvc/?username=Chaganti-Reddy">
+    <img src="https://komarev.com/ghpvc/?username=SahilBharodiya">
 </a>
 <a href="https://github.com/SahilBharodiya?tab=followers"><img src="https://img.shields.io/github/followers/SahilBharodiya?style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/SahilBharodiya?tab=stars"><img src="https://img.shields.io/github/stars/SahilBharodiya?style=social" alt="GitHub Badge"></a>
