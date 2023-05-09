@@ -40,7 +40,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SahilBharodiya"><img alt="Chaganti Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahilBharodiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SahilBharodiya"><img alt="Sahil Bharodiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SahilBharodiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SahilBharodiya"><img alt="Sahil Bharodiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilBharodiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -71,8 +71,5 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/SahilBharodiya">
-    <img src="https://komarev.com/ghpvc/?username=SahilBharodiya">
-</a>
 <a href="https://github.com/SahilBharodiya?tab=followers"><img src="https://img.shields.io/github/followers/SahilBharodiya?style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/SahilBharodiya?tab=stars"><img src="https://img.shields.io/github/stars/SahilBharodiya?style=social" alt="GitHub Badge"></a>
