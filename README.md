@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-[![Sahil Bharodiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CSahilBharodiya&theme=github-compact)](https://github.com/SahilBharodiya)
+[![Sahil Bharodiya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SahilBharodiya&theme=github-compact)](https://github.com/SahilBharodiya)
 
 
 ---
