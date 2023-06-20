@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently persuing my graduation at **Indian Institute of Information Technology, Sonepat**
+- 🔭 I’m currently pursuing my graduation at **Indian Institute of Information Technology, Sonepat**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **sahilbharodiya.ppsv2@gmail.com**
 
-- ⚡ Fun fact **I Love to Learn Philosophy.**
+- ⚡ Fun fact **I Love Philosophy.**
 
 ## 🚀 Languages and Tools:
 
